@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-// this is myfrist code for CGI demo
+// this is myfrist code for CGI demo1
 namespace PartsUnlimited.Models
 {
     public class Category
